@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iraitz</h1>
 <h3 align="center">A passionate frontend developer from the Canary Islands</h3>
 
-- 🔭 I’m currently working on **SHERPA**
-
-- 🌱 I’m currently learning **Next.js, DDD, TDD**
-
-- 👯 I’m looking to collaborate on [React Dynamic Buttons](https://github.com/nachorsanz/react-dynamic-components)
+- 🔭 I’m currently working for **iFeel**
 
 - 💬 Ask me about **React, JS**
 
